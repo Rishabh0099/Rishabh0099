@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishabh0099
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Python.
 
 <!---
 Rishabh0099/Rishabh0099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
